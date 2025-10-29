@@ -1,0 +1,4 @@
+# Create a ship with stocked 2 torpedos 1 with certain failure
+GT4500,1,0,1,1
+TORPEDO,SINGLE  # Firing one of the cannons
+TORPEDO,SINGLE  # Firing one of the cannons
