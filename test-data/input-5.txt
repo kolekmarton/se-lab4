@@ -1,0 +1,6 @@
+# Create a ship with stocked 1 and 3 torpedos, it will run out of main but continue to fire from secondary
+GT4500,1,0,3,0
+TORPEDO,SINGLE  # Firing one of the cannons
+TORPEDO,SINGLE  # Firing one of the cannons
+TORPEDO,SINGLE  # Firing one of the cannons
+TORPEDO,SINGLE  # Firing one of the cannons
